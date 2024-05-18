@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "name": "Lila Schmitt IV",
+        "phone": "293-600-4469 x41215",
+        "email": "Jakayla_Macejkovic@hotmail.com",
+        "job": "Lead Security Specialist"
+    },
+    {
+        "name": "Tricia Cole",
+        "phone": "1-275-235-9154 x963",
+        "email": "Lavonne.Lakin@gmail.com",
+        "job": "International Creative Developer"
+    },
+    {
+        "name": "Joanne Bartoletti",
+        "phone": "384.681.0282",
+        "email": "Taylor.Moore-Lubowitz@gmail.com",
+        "job": "Lead Identity Associate"
+    }
+]
